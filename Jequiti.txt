@@ -1,0 +1,32 @@
+Sistema Da Jequiti
+
+Proposta: Marca brasileira de cosméticos para ser fundada em 2006, que pertence ao grupo Silvio Santos, que é um conglomerado de empresas que atuam em diversos setores, como mídia, comunicação, entretenimento e varejo.
+Onde terá um amplo catálogo de produtos, que terá itens de cuidados pessoais, maquiagens, perfumes, produtos para cabelos, assim não se limitando a apenas perfumes.
+    
+    Divulgação: Para publicação e divulgação de todos os produtos da marca, será necessário um catálogo, onde vai ser possível encontrar informações sobre os produtos, como descrições, preços e imagens, além de dicas de uso e sugestões de combinações de produtos, assim sendo uma ferramenta muito útil para os consultores e clientes da marca.
+Pagando os consultores com bons salários para os incentivar a divulgar a ser um novo consultor.
+    
+    Requisitos não funcionais e requisitos visuais: Sites para compras online com diversos servidores, tanto servidores brasileiros como estrangeiros, assim aumentando o giro de produtos, fontes de anúncios de produtos grandes, e descrição de cada produto um pouco menor.
+
+    Elementos Visuais: Telas de login e cadastro, e redirecionamentos para cada tipo de produto.
+
+    Elementos auditivos: Sons de clique ao entrar no site em uma nova aba (não muito útil, mas para pessoas com certo perfeccionismo, agradar).
+    
+    Elementos Manuais: Poder arrastar os produtos escolhidos para um ícone de carrinho, assim adicionando ele de maneira mais fluida para o carrinho de itens.
+   
+    Interatividade: uma IA super inteligente, que responde todos os tipos de dúvidas que os clientes que acessam o site tenham.
+    
+    Automação: Caixas inteligentes que aceitam o pagamento automaticamente e passam as compras(apenas os cartões, já que eles ainda não teriam tecnologia para reconhecer dinheiro sem ajuda humana).
+    
+    Acessibilidade: Opções diversificadas para ajudar pessoas daltônicas ou com problemas visuais.
+    
+    Regras: Projetar e organizar as permissões para cada tipo de usuário do site. (por exemplo: administradores têm a capacidade de banir usuários que estejam violando alguma regra).
+    
+    Banco de dados: Criação de várias tabelas para cada tipo de perfume, maquiagem e cremes, os separando por ordem de popularidade e preço, assim tornando fácil a visualização.
+    
+    Entrega: Prazo de desenvolvimento: 1 ano com uma grande equipe ajudando, conclusão definitiva: 8 meses.
+
+    Valor: Horas por dia: 5 (200 por hora trabalhada), quantidade de dias trabalhados: de segunda a sexta.
+
+    Manutenção: 3 horas, R$3000 por manutenção.
+
